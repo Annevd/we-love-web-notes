@@ -20,7 +20,7 @@ body {
     background-image: url(./images/6562423.jpg);
     background-size: cover;
     background-attachment: fixed;
-    background-repeat: no-repeat;
+    cursor: url('./images/mage-from-rawpixel-id-2787740-png2.png'), auto;
 }
 
 h1 {
